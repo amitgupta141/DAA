@@ -1,0 +1,5 @@
+ArraySize,BestCase,WorstCase,AverageCase
+10,1,10,5
+100,1,100,50
+1000,1,1000,500
+
